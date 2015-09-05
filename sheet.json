@@ -1,8 +1,8 @@
 {
 	"html": "uesrpg.html",
 	"css": "uesrpg.css",
-	"authors": "Atlas Sullivan ",
-	"roll20userid": 428222,
-	"preview": "uesrpg.png",
-	"instructions": "**This is a test**\n\nYou can put Markdown-formatted instructions here for how to use your sheet. Please try to keep it moderately-short (500 characters or less is preferred)."
+	"authors": "Atlas Sullivan",
+	"roll20userid": [428222 ],
+	"preview": null,
+	"instructions": "This is an attempt at getting the [Unofficial Elder Scrolls Role Playing Game](http://1d4chan.org/wiki/Unofficial_Elder_Scrolls_RPG) on to [Roll20](https://roll20.net/)"
 }
